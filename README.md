@@ -58,3 +58,41 @@ Go To message routing and add custom end point
 
 ![image](https://github.com/user-attachments/assets/033dd61c-0be7-4052-ae7b-063ff80db563)
 
+
+Creating a stream analytics job to push data to adls
+
+
+![image](https://github.com/user-attachments/assets/20f2c80b-638b-4057-b743-8d61feb319cf)
+
+
+![image](https://github.com/user-attachments/assets/8dd2a250-5f82-4f63-99c6-5223b0b8da5c)
+
+![image](https://github.com/user-attachments/assets/a3dadcb2-3cb8-4069-b7e7-13cdb03ce063)
+
+
+![image](https://github.com/user-attachments/assets/04a1433e-200e-4a1c-8bac-d44bda7b1400)
+
+I started stream job and simulator python applicaiton
+
+![image](https://github.com/user-attachments/assets/0af41771-63e9-4604-b538-79cff05c9c4d)
+
+You can see data is loading in adls storage container
+
+![image](https://github.com/user-attachments/assets/160e42b2-d0fd-4c68-bbe5-284f236ececb)
+
+
+Json data is for your reference
+
+
+![image](https://github.com/user-attachments/assets/d0e39a13-8ed2-4647-b878-875cadc1207e)
+
+You can see streaming job is still running and loading data in adls
+
+![image](https://github.com/user-attachments/assets/7897ae00-1ed9-4052-a3e9-8037b1377178)
+
+![image](https://github.com/user-attachments/assets/f43707b0-185e-418d-a77e-4cfc7e205b86)
+
+
+
+
+
