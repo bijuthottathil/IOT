@@ -24,3 +24,35 @@ I have used below python code for event generation. Primary Connection string is
 
 ![image](https://github.com/user-attachments/assets/b4c8305c-c21c-4497-a4ab-c6caf3966349)
 
+Next step is to test simulator and IOT data transmission
+
+Run simulator program 
+
+![image](https://github.com/user-attachments/assets/4a6cd7f1-05cf-4f65-a4d4-c29ea11d6a35)
+
+I will generage json data and load in IOT Hub
+
+You can see data is adding in device
+
+![image](https://github.com/user-attachments/assets/dc56131d-2795-4d29-acd8-cc8243983610)
+
+
+You can query data from device
+
+![image](https://github.com/user-attachments/assets/5a97b065-c3cb-4b8f-aaab-6dcc17228978)
+
+
+Now our intend is to store above messages in ADLS Storage
+
+Created adls storage with a container
+
+![image](https://github.com/user-attachments/assets/dd57e362-2ed1-4020-91e1-633072d0f3ea)
+
+
+Go To message routing and add custom end point
+
+![image](https://github.com/user-attachments/assets/235687fa-5b5c-418c-b422-a8f169be6369)
+
+
+
+
