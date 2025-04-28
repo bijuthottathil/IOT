@@ -1,4 +1,5 @@
 # Azure IoT to ADLS :: Generate Telemetry data and create files in ADLS
+![image](https://github.com/user-attachments/assets/4c33bbee-e61d-4ca9-b16f-82acbfacbff2)
 
 
 1. IOT Hub created in Azure
