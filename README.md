@@ -92,6 +92,7 @@ You can see streaming job is still running and loading data in adls
 
 ![image](https://github.com/user-attachments/assets/f43707b0-185e-418d-a77e-4cfc7e205b86)
 
+![image](https://github.com/user-attachments/assets/053b08f1-8d44-4c68-88f4-7593a61f7999)
 
 
 
